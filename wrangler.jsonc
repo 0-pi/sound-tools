@@ -3,4 +3,7 @@
   "name": "sound-tools",
   "compatibility_date": "2025-11-25",
   "workers_dev": false,
+  "assets": {
+  "directory": "./dist"
+}
 }
